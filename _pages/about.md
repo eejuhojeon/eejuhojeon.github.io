@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IC Design Engineer.
+subtitle: <a href="https://yuegroup.hkust.edu.hk/">Optical Wireless Lab</a>, MPhil Candidate, IC Design Engineer.
 
 profile:
   align: right
