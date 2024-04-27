@@ -135,7 +135,7 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-#related_blog_posts:
+related_blog_posts:
   enabled: true
   max_related: 5
 
