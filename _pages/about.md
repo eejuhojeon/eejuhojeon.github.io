@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [OWL]([https://jpswalsh.github.io/academicons/](https://yuegroup.hkust.edu.hk/)) IC Design Engineer.
+subtitle: IC Design Engineer.
 
 profile:
   align: right
