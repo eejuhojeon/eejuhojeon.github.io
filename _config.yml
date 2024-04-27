@@ -237,7 +237,8 @@ exclude:
   - _pages/about_einstein.md
   - _pages/publications.md
   - _pages/teaching.md
-  
+  - _pages/profiles.md
+  - _pages/projects.md
 
   
 keep_files:

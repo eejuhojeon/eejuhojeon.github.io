@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Checkout my github repositories. This is part of <a href='https://yuegroup.hkust.edu.hk/openic'>OWL OpenIC</a> to distribute IC design for collaboration of IC engineers. Only the schematic topologies and simulation settings are distributed to comply with the NDA.
 nav: true
 nav_order: 4
 ---

@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eejuhojeon
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - eejuhojeon/LNA_28GHz_22nm
