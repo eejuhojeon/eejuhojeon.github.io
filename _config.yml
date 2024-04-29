@@ -300,8 +300,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Juho
-  first_name: Jeon
+  last_name: [Juho]
+  first_name: [Jeon]
 
   style: apa
   locale: en
