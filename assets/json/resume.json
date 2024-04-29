@@ -68,14 +68,33 @@
   ],
   "extra": [
     {
-      "name": "Deloitte Advisory",
-      "position": "Cybersecurity Intern",
+      "name": "Student Liaison Committee",
+      "position": "Electronic and Computer Engineering Student Ambassador",
       "url": "",
-      "startDate": "2022-02",
-      "endDate": "2022-12",
-      "summary": "Contribute to Identity and Access Management (IAM) engagements and bidding proposals to design and implement target processes of user management.",
+      "startDate": "2023-09",
+      "endDate": "2024-06",
+      "summary": ,
       "highlights": ["Identity Access Management"]
+    },
+    {
+      "name": "HKUST Robotics Team",
+      "position": "Hardware Engineer",
+      "url": "",
+      "startDate": "2022-01",
+      "endDate": "2021-09",
+      "summary": ,
+      "highlights": 
+    },
+    {
+      "name": "Band Society at the Hong Kong University of Science and Technology",
+      "position": "Guitarist",
+      "url": "",
+      "startDate": "2017-09",
+      "endDate": "2019-06",
+      "summary": ,
+      "highlights": 
     }
+    
   ],
 
 
