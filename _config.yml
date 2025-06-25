@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "mint"
 title                    : "Juho Jeon / Integrated Circuit Designer"
 title_separator          : "-"
 name                     : &name "Juho Jeon"
 description              : &description "MPhil Student researching High-Speed Wireline Communication & Data Converter"
-url                      : https://eejuhojeon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://eejuhojeon.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eejuhojeon/eejuhojeon.github.io"
 
@@ -29,7 +29,7 @@ author:
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "jjeonaa@ust.hk" 
+  email            : "jjeonaa@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
