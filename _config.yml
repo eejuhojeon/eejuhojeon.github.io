@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint"
+site_theme               : "default"
 title                    : "Juho Jeon / Integrated Circuit Designer"
 title_separator          : "-"
 name                     : &name "Juho Jeon"
